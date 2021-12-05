@@ -1,0 +1,1 @@
+C:\android\OpenCVInstall\opencvsdk\build\intermediates\cxx\RelWithDebInfo\1k6a5k2k\obj\x86
